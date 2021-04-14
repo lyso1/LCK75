@@ -2,7 +2,7 @@
 
 a 75% through-hole keyboard designed by myself with inspiration from the CFTKB Discipline and Yiancar Gingham
 
-[Imgur](https://imgur.com/yote2Gq)
+(https://imgur.com/yote2Gq)
 [Imgur](https://imgur.com/ejtY23l)
 [Imgur](https://imgur.com/4cGo7Pt)
 
