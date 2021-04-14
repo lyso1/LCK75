@@ -4,7 +4,7 @@ a 75% through-hole keyboard designed by myself with inspiration from the CFTKB D
 
 ![LCK75](https://imgur.com/yote2Gq)
 
-![LCK75](https://imgur.com/ejtY23l)
+![ScreenShot](https://raw.githubusercontent.com/i-saumitra/Voice-controlled-MP3-Player/master/screenshot.jpg)
 
 ![LCK75](https://imgur.com/4cGo7Pt)
 
